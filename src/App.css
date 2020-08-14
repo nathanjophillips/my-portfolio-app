@@ -1,38 +1,67 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 30vmin;
   pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  border-radius: 50%;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #ececec;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #1f1d1d;
 }
 
-.App-link {
-  color: #61dafb;
+.contacts {
+  display: flex;
+  justify-content: center;
+  width: 50%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.contacts a {
+  font-size: xx-large;
+  align-items: baseline;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.contact a:hover {
+  font-size: medium;
+  align-items: baseline;
+  text-decoration: rgb(11, 148, 45);
+}
+
+.devicon-git-plain {
+  width: 3em;
+  padding: 10px;
+}
+
+.icon-text {
+  font-size: 12px;
+  color: black;
+  text-decoration: none;
+}
+
+.skills {  
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-top: 50px !important;
+    margin-bottom: 10px !important;
+    padding: 20px;
+}
+
+.skills a {
+  display: inline;
+}
+
+.skills a :hover {
+  opacity: 50%;
 }
