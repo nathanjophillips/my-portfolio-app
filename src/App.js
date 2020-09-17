@@ -48,7 +48,7 @@ function App() {
         </div>
       </header>
       <body>
-        <div className="outside-title"><h1 className="skill-main-title">SKILLS</h1></div>
+        <div className="outside-title"><h1 className="skill-main-title">Skills</h1></div>
         <div className="skills-line"></div>
         <div className="skills-row">
           <div className="skill-icons-bottom">  
