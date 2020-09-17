@@ -44,12 +44,14 @@ function App() {
                 Ames, IA
               </div>
             </a>
-          <div className="resume-button-outside"><a className="resume-button" href={resume} download>Resume<div className="download-icon"><FiDownload/></div></a></div>
+         
         </div>
+        
       </header>
+      <div className="resume-button-outside"><a className="resume-button" href={resume} download>Resume<div className="download-icon"><FiDownload/></div></a></div>
       <body>
         <div className="outside-title"><h1 className="skill-main-title">Skills</h1></div>
-        <div className="skills-line"></div>
+        
         <div className="skills-row">
           <div className="skill-icons-bottom">  
             <a>
