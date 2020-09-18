@@ -126,7 +126,7 @@
   text-decoration: none;
   padding: 15px;
   color: var(--secondary-color-dark);
- 
+
 }
 
 .social-icons-text {
@@ -264,9 +264,7 @@
 }
 
 .skill-icons-left > a:hover , .skill-icons-right > a:hover , .skill-icons-bottom  > a:hover {
-  /* background-color: var(--secondary-color-dark); */
-  opacity: 75%;
-  transition: 0.3;
+  background-color: var(--primary-color-light);
 }
 
 .card {
