@@ -61,19 +61,19 @@ function App() {
               </div>
             </a>
             <a>
-              <div className="top-skill-icons" title="front-end-development-icon" alt="front-end-development-icon"  target="_blank">  
+              <div className="top-skill-icons" title="front-end-development-icon" alt="communication-icon"  target="_blank">  
                 <MdGroup/>       
                 <div className="icon-text-top">Communication</div>
               </div>
             </a>
             <a>
-              <div className="top-skill-icons" title="front-end-development-icon" alt="front-end-development-icon"  target="_blank">  
+              <div className="top-skill-icons" title="front-end-development-icon" alt="accessibility-icon"  target="_blank">  
                 <MdAccessibility/>       
                 <div className="icon-text-top">Accessibility</div>
               </div>
             </a>
             <a>
-              <div className="top-skill-icons" title="front-end-development-icon" alt="front-end-development-icon"  target="_blank">  
+              <div className="top-skill-icons" title="front-end-development-icon" alt="user-experience-icon"  target="_blank">  
                 <MdHotTub/>       
                 <div className="icon-text-top">User Experience</div>
               </div>
