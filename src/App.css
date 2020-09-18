@@ -195,7 +195,6 @@
   flex-direction: row;
 }
 
-
 .skill-columns {
   width: 50%;
 }
@@ -225,7 +224,6 @@
   width: 10%;
   padding-top: 50px;
   font-family: 'Lato', sans-serif;
-
 }
 
 .skills-line::after {
@@ -254,8 +252,6 @@
   justify-content: center;
   padding-bottom: 50px;
 }
-
-
 
 .skill-icons-left > a , .skill-icons-right > a , .skill-icons-bottom  > a {
   text-decoration: none;
