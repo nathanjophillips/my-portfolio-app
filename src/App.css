@@ -136,7 +136,7 @@
 }
 
 .social-icons a:hover {
-  opacity: 50%;
+  background-color: var(--secondary-color);
   transition: 0.3s;
 }
 
@@ -257,7 +257,7 @@
 }
 
 .skill-icons-left  > a:hover , .skill-icons-right > a:hover , .skill-icons-bottom > a:hover  {
-  opacity: 50%;
+  background-color: var(--secondary-color);
   transition: 0.3s;
 }
 
