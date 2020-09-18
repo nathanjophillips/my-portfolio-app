@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6a92e81.chunk.css",
-    "main.js": "/static/js/main.ba828e4a.chunk.js",
-    "main.js.map": "/static/js/main.ba828e4a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
-    "static/js/2.a0289131.chunk.js": "/static/js/2.a0289131.chunk.js",
-    "static/js/2.a0289131.chunk.js.map": "/static/js/2.a0289131.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f7ba31be56e1680680518c04dedb6b1c.js": "/precache-manifest.f7ba31be56e1680680518c04dedb6b1c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e6a92e81.chunk.css.map": "/static/css/main.e6a92e81.chunk.css.map",
-    "static/js/2.a0289131.chunk.js.LICENSE.txt": "/static/js/2.a0289131.chunk.js.LICENSE.txt",
-    "static/media/firebase.svg": "/static/media/firebase.92972636.svg",
-    "static/media/headshot.png": "/static/media/headshot.73750a47.png",
-    "static/media/jha.svg": "/static/media/jha.bff1136e.svg",
-    "static/media/jira-3.svg": "/static/media/jira-3.70365e83.svg",
-    "static/media/panthers.svg": "/static/media/panthers.0b940329.svg",
-    "static/media/polymer.svg": "/static/media/polymer.0743251e.svg",
-    "static/media/resume-nathan-phillips.pdf": "/static/media/resume-nathan-phillips.cf9998f6.pdf",
-    "static/media/uni.svg": "/static/media/uni.b108ae1a.svg"
+    "main.css": "/my-portfolio-app/static/css/main.e6a92e81.chunk.css",
+    "main.js": "/my-portfolio-app/static/js/main.e4b4a098.chunk.js",
+    "main.js.map": "/my-portfolio-app/static/js/main.e4b4a098.chunk.js.map",
+    "runtime-main.js": "/my-portfolio-app/static/js/runtime-main.ecfb0354.js",
+    "runtime-main.js.map": "/my-portfolio-app/static/js/runtime-main.ecfb0354.js.map",
+    "static/js/2.a0289131.chunk.js": "/my-portfolio-app/static/js/2.a0289131.chunk.js",
+    "static/js/2.a0289131.chunk.js.map": "/my-portfolio-app/static/js/2.a0289131.chunk.js.map",
+    "index.html": "/my-portfolio-app/index.html",
+    "precache-manifest.6721786517f34b9ab5bbe581e840eccf.js": "/my-portfolio-app/precache-manifest.6721786517f34b9ab5bbe581e840eccf.js",
+    "service-worker.js": "/my-portfolio-app/service-worker.js",
+    "static/css/main.e6a92e81.chunk.css.map": "/my-portfolio-app/static/css/main.e6a92e81.chunk.css.map",
+    "static/js/2.a0289131.chunk.js.LICENSE.txt": "/my-portfolio-app/static/js/2.a0289131.chunk.js.LICENSE.txt",
+    "static/media/firebase.svg": "/my-portfolio-app/static/media/firebase.92972636.svg",
+    "static/media/headshot.png": "/my-portfolio-app/static/media/headshot.73750a47.png",
+    "static/media/jha.svg": "/my-portfolio-app/static/media/jha.bff1136e.svg",
+    "static/media/jira-3.svg": "/my-portfolio-app/static/media/jira-3.70365e83.svg",
+    "static/media/panthers.svg": "/my-portfolio-app/static/media/panthers.0b940329.svg",
+    "static/media/polymer.svg": "/my-portfolio-app/static/media/polymer.0743251e.svg",
+    "static/media/resume-nathan-phillips.pdf": "/my-portfolio-app/static/media/resume-nathan-phillips.cf9998f6.pdf",
+    "static/media/uni.svg": "/my-portfolio-app/static/media/uni.b108ae1a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/runtime-main.ecfb0354.js",
     "static/js/2.a0289131.chunk.js",
     "static/css/main.e6a92e81.chunk.css",
-    "static/js/main.ba828e4a.chunk.js"
+    "static/js/main.e4b4a098.chunk.js"
   ]
 }
