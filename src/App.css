@@ -259,8 +259,11 @@
   margin-bottom: 75px;
 }
 
-.skill-icons-left > a:hover , .skill-icons-right > a:hover , .skill-icons-bottom  > a:hover {
-  background-color: var(--primary-color-light);
+.skill-icons-left > a:hover , .skill-icons-right > a:hover , .skill-icons-bottom a:hover {
+  /* background-color: var(--secondary-color);
+   */
+   opacity: 0.6;
+   transition: 0.3-;
 }
 
 .card {
