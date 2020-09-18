@@ -283,7 +283,7 @@ function App() {
       </body>
       <footer>
         <form action="https://formspree.io/xgenbezd" method="POST">
-          <h2 className="contact-title">Lets Get in Touch!</h2><div className="line"></div>
+          <h2 className="contact-title">Let's Get in Touch!</h2><div className="line"></div>
           <label><IoMdMail/>
             <input type="text" placeholder="Your Email" name="_replyto"></input>
           </label>
